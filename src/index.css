@@ -1,0 +1,182 @@
+@import "tw-animate-css";
+@import "tailwindcss";
+
+:root {
+  font-family: var(--font-sans), system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --font-sans: "Space Grotesk";
+  --font-emoji: "Noto Color Emoji";
+
+  --radius: 0.4rem;
+  --background: oklch(0.141 0.005 285.823);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.21 0.006 285.885);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.21 0.006 285.885);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.541 0.281 293.009);
+  --primary-foreground: oklch(0.969 0.016 293.756);
+  --secondary: oklch(31.828% 0.00531 286.001);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.274 0.006 286.033);
+  --muted-foreground: oklch(0.705 0.015 286.067);
+  --accent: oklch(0.274 0.006 286.033);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 35%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.541 0.281 293.009);
+  --chart-1: oklch(0.488 0.243 264.376);
+  --chart-2: oklch(0.696 0.17 162.48);
+  --chart-3: oklch(0.769 0.188 70.08);
+  --chart-4: oklch(0.627 0.265 303.9);
+  --chart-5: oklch(0.645 0.246 16.439);
+  --sidebar: oklch(0.21 0.006 285.885);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.541 0.281 293.009);
+  --sidebar-primary-foreground: oklch(0.969 0.016 293.756);
+  --sidebar-accent: oklch(0.274 0.006 286.033);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.541 0.281 293.009);
+}
+
+@theme inline {
+  --breakpoint-xs: 30rem;
+
+  --font-sans: var(--font-sans);
+  --font-emoji: var(--font-emoji);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+/* CSS Resets */
+@layer base {
+  *::before,
+  *,
+  *::after {
+    @apply border-border outline-ring/50 font-sans;
+  }
+
+  html,
+  body {
+    @apply m-0 p-0 w-screen h-screen bg-background text-foreground overflow-hidden;
+  }
+
+  canvas {
+    @apply w-screen h-screen;
+  }
+
+  button {
+    @apply cursor-pointer;
+  }
+
+  ::-webkit-scrollbar {
+    @apply w-1.5 rounded-md;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-primary rounded-md;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-background rounded-md;
+  }
+
+  ::selection {
+    @apply bg-primary/35;
+  }
+}
+
+/* Additional utility classes */
+@utility text-gold-gradient {
+  @apply text-transparent bg-gradient-to-r bg-clip-text from-[#DEC27C] via-[#F2F2C9] to-[#D9B377];
+}
+
+@utility text-red-gradient {
+  @apply text-transparent bg-gradient-to-r bg-clip-text from-[#D42700] via-[#FF8080] to-[#A62106];
+}
+
+@utility text-amber-gradient {
+  @apply text-transparent bg-gradient-to-r bg-clip-text from-[#e7a114] via-[#ffbd4a] to-[#f8db22];
+}
+
+@utility text-yellow-gradient {
+  @apply text-transparent bg-gradient-to-r bg-clip-text from-[#ffd428] via-[#ffea80] to-[#d8bd0e];
+}
+
+@utility text-blue-gradient {
+  @apply text-transparent bg-gradient-to-r bg-clip-text from-[#3048ff] via-[#3f5fff] to-[#1f2cdd];
+}
+
+@utility scrollbar-hidden {
+  @apply [scrollbar-width:none] [&::-webkit-scrollbar]:hidden;
+}
+
+/* Animations */
+@keyframes pulse {
+  0%,
+  40%,
+  100% {
+    opacity: 0.5;
+    transform: translateY(0rem);
+    animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+  }
+
+  20% {
+    opacity: 1;
+    transform: translateY(-0.25rem);
+    animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+  }
+}
+
+/* Fonts */
+@font-face {
+  font-family: "Space Grotesk";
+  src: url("/assets/fonts/Space_Grotesk.ttf");
+}
+
+@font-face {
+  font-family: "Noto Color Emoji";
+  src: url("/assets/fonts/Noto_Color_Emoji_Regular.ttf");
+}

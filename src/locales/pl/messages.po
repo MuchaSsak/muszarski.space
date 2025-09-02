@@ -1,0 +1,544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src/canvases/space/sections/heroSection/components/HeroMyOrigin.tsx:118
+msgid " for amateur photography of those places "
+msgstr " dla amatorskiej fotografii tych miejsc "
+
+#: src/lib/constants.tsx:518
+msgid "2D Space Portfolio"
+msgstr "2D Kosmiczne Portfolio"
+
+#: src/lib/constants.tsx:475
+msgid "3D screensaver for a sports club using GPGPU computing in R3F ⚡"
+msgstr "3D wygaszacz ekranu dla klubu sportowego używając kalkulacji GPGPU w R3F ⚡"
+
+#: src/lib/constants.tsx:499
+msgid "A foreign language learning app for vocabulary reinforcement by typing ⌨️"
+msgstr "Aplikacja do nauki słownictwa języków obcych poprzez pisanie na klawiaturze ⌨️"
+
+#: src/lib/constants.tsx:483
+#~ msgid "A fully animated Next.js portfolio with the help of Three.js, Framer Motion, shadcn/ui and clever usage of .webm videos 🌌"
+#~ msgstr "W pełni animowane Next.js portfolio wykonane za pomocą Three.js, Motion, shadcn/ui oraz sprytnych użyć filmów .webm 🌌"
+
+#: src/lib/constants.tsx:520
+msgid "A fully animated Next.js portfolio with the help of ThreeJS, Framer Motion, shadcn/ui and clever usage of .webm videos 🌌"
+msgstr "W pełni animowane Next.js portfolio wykonane za pomocą Three.js, Motion, shadcn/ui oraz sprytnych użyć filmów .webm 🌌"
+
+#: src/lib/constants.tsx:541
+msgid "A react library full of highly customizable and animated buttons out of the box. This project includes an SPA for documentation and an NPM package 👉"
+msgstr "Biblioteka do React pełna wysoko personalizowalnych i animowanych przycisków przygotowanych od razu dla developera. Ten projekt zawiera SPA dla dokumentacji oraz paczkę NPM 👉"
+
+#: src/lib/constants.tsx:501
+#~ msgid "A React library full of highly customizable and animated buttons out of the box. This project includes an SPA for documentation and an NPM package 👉"
+#~ msgstr "Biblioteka do React pełna wysoko personalizowalnych i animowanych przycisków przygotowanych od razu dla developera. Ten projekt zawiera SPA dla dokumentacji oraz paczkę NPM 👉"
+
+#: src/lib/constants.tsx:451
+msgid "A website including 3D features made to promote a beautiful organiation in Luxemburg "
+msgstr "Strona internetowa zawierająca 3D aspekty zrobiona dla promowania pięknej organizacji zlokalizowanej w Luksemburgu "
+
+#: src/canvases/space/sections/heroSection/components/HeroAboutMe.tsx:28
+msgid "About me "
+msgstr "O mnie "
+
+#: src/lib/constants.tsx:143
+#: src/lib/constants.tsx:180
+msgid "adaptibility"
+msgstr "zdolność adaptacji"
+
+#: src/lib/constants.tsx:258
+msgid "Alternative Participation of Rural Youth in Bakuriani, Georgia"
+msgstr "Alternatywny Udział Wiejskiej Młodzieży w Bakuriani, Gruzja"
+
+#: src/lib/constants.tsx:525
+#~ msgid "An SPA for managing your finances by taking track of your budgets and expenses. Utilizes the browser's local storage and advanced UI state using React's Context API with useReducer 💸"
+#~ msgstr "SPA dla zarządzania swoimi finansami poprzez notowanie budżetów oraz wydatków. Wykorzystuje lokalne dane przeglądarkowe oraz zaawansowany system dla UI state za pomocą React Context API oraz useReducer 💸"
+
+#: src/lib/constants.tsx:565
+msgid "An SPA for managing your finances by taking track of your budgets and expenses. Utilizes the browser's localStorage and advanced UI state using React's Context API with useReducer 💸"
+msgstr "SPA dla zarządzania swoimi finansami poprzez notowanie budżetów oraz wydatków. Wykorzystuje lokalne dane przeglądarkowe oraz zaawansowany system dla UI state za pomocą React Context API oraz useReducer 💸"
+
+#: src/lib/constants.tsx:131
+msgid "analyzing nearby threats to the animals and getting rid of them"
+msgstr "analizowanie zagrożeń dla zwierząt i eliminowanie ich"
+
+#: src/components/CreditsDialogButton.tsx:42
+msgid "are licensed under"
+msgstr "są pod licencją"
+
+#: src/lib/constants.tsx:91
+msgid "attending meetings with volunteers"
+msgstr "uczestnictwo w spotkaniach z wolontariuszami"
+
+#: src/lib/constants.tsx:134
+msgid "attending mentor on-site and onine meetings"
+msgstr "uczestnictwo w spotkaniach z mentorem, na miejscu jak i online"
+
+#: src/components/AudioSettingButton.tsx:47
+msgid "Audio settings"
+msgstr "Ustawienia dźwięku"
+
+#: src/lib/constants.tsx:473
+msgid "Beniaminek 03 Screensaver"
+msgstr "Beniaminek 03 Wygaszacz Ekranu"
+
+#: src/canvases/space/sections/heroSection/components/HeroAboutMe.tsx:48
+msgid "Beyond technology, I enjoy a range of other activites including working out, traveling, photography, swimming and many more! "
+msgstr "Poza technologią lubię wiele innych aktywności, takich jak ćwiczenia, podróżowanie, fotografia, pływanie i wiele więcej! "
+
+#: src/lib/constants.tsx:166
+msgid "Bike courier"
+msgstr "Kurier rowerowy"
+
+#: src/canvases/space/sections/heroSection/components/HeroMyOrigin.tsx:56
+msgid "But I've been to a bunch of"
+msgstr "Ale byłem też w"
+
+#: src/components/CreditsDialogButton.tsx:110
+msgid "by"
+msgstr "od"
+
+#: src/components/ResetSettingsDialogButton.tsx:45
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: src/canvases/space/sections/certificatesSection/components/CertificatesTitle.tsx:31
+msgid "Certificates"
+msgstr "Certyfikaty"
+
+#: src/canvases/space/sections/heroSection/components/HeroMyOrigin.tsx:99
+msgid "Check out my "
+msgstr "Zobacz mój "
+
+#: src/components/MobileWarning.tsx:63
+msgid "check out my older portfolio 🚀"
+msgstr "sprawdź moje stare portfolio 🚀"
+
+#: src/components/CreditsDialogButton.tsx:132
+msgid "Cheers to them!"
+msgstr "Brawa dla nich!"
+
+#: src/lib/constants.tsx:132
+msgid "cleaning up local beaches from garbage"
+msgstr "sprzątanie lokalnych plaż z odpadów"
+
+#: src/components/MobileWarning.tsx:71
+msgid "click here."
+msgstr "kliknij tutaj."
+
+#: src/canvases/space/sections/jobExperienceSection/components/JobExperienceListInfoText.tsx:43
+msgid "Click on the asteroids for more details!"
+msgstr "Kliknij asteroidy, aby zobaczyć więcej szczegółów!"
+
+#: src/canvases/space/sections/jobExperienceSection/components/JobExperienceItemDialog.tsx:120
+msgid "Close"
+msgstr "Zamknij"
+
+#: src/lib/constants.tsx:335
+msgid "Complete Blender Megacourse: Beginner to Expert"
+msgstr "Complete Blender Megacourse: Beginner to Expert"
+
+#: src/lib/constants.tsx:356
+msgid "CompTIA A+ Core 1 (220-1101) Complete Course & Practice Exam"
+msgstr "CompTIA A+ Core 1 (220-1101) Complete Course & Practice Exam"
+
+#: src/canvases/space/sections/contactSection/components/ContactForm.tsx:117
+msgid "Contact"
+msgstr "Kontakt"
+
+#: src/components/ui/combobox.tsx:58
+msgid "Couldn't find results"
+msgstr "Nie znaleziono wyników"
+
+#: src/lib/constants.tsx:89
+msgid "creating spreadsheets"
+msgstr "tworzenie arkuszy kalkulacyjnych"
+
+#: src/components/CreditsDialogButton.tsx:28
+msgid "Credits 💖"
+msgstr "Podziękowania 💖"
+
+#: src/lib/constants.tsx:178
+msgid "cycling"
+msgstr "jazda na rowerze"
+
+#: src/lib/constants.tsx:169
+msgid "Delivering orders via the partnered mobile application — Glovo."
+msgstr "Dostarczanie zamówień przez partnerską aplikację mobilną — Glovo."
+
+#: src/components/AnimateDocumentTitle.tsx:28
+#: src/components/StartupScreen.tsx:145
+msgid "Deploying..."
+msgstr "Przygotowywanie..."
+
+#: src/components/AnimateDocumentTitle.tsx:28
+msgid "Deploying...."
+msgstr "Przygotowywanie..."
+
+#: src/components/AnimateDocumentTitle.tsx:28
+msgid "Deploying....."
+msgstr "Przygotowywanie..."
+
+#: src/lib/constants.tsx:87
+msgid "developing a website"
+msgstr "tworzenie strony internetowej"
+
+#: src/lib/constants.tsx:219
+msgid "Developing Infrastructure to Work with Youth in Daugirdiškės, Lithuania"
+msgstr "Wykorzystywanie Infrastruktury do Działań z Młodzieżą w Daugirdiškės, Lithuania"
+
+#: src/lib/constants.tsx:238
+msgid "Digital Youth Work Methods in Saraiķi, Latvia"
+msgstr "Metody Cyfrowej Pracy Młodzieży w Saraiķi, Latvia"
+
+#: src/components/ResetSettingsDialogButton.tsx:37
+msgid "Do you want to reset all settings?"
+msgstr "Czy chcesz zresetować wszystkie ustawienia?"
+
+#: src/canvases/space/sections/jobExperienceSection/components/JobExperienceDownloadResume.tsx:64
+msgid "Download résumé"
+msgstr "Pobierz CV"
+
+#: src/canvases/space/sections/contactSection/components/ContactForm.tsx:141
+msgid "e.g. Order for a website"
+msgstr "np. Zamówienie witryny internetowej"
+
+#: src/components/AudioSettingButton.tsx:56
+msgid "Enable sounds"
+msgstr "Włącz dźwięk"
+
+#: src/lib/constants.tsx:123
+msgid "European Solidarity Corps group volunteer"
+msgstr "Wolontariusz grupowy Europejskiego Korpusu Solidarności"
+
+#: src/lib/constants.tsx:98
+msgid "flexibility"
+msgstr "elastyczność"
+
+#: src/components/MobileWarning.tsx:59
+msgid "For a more responsive and lighter website, "
+msgstr "Dla bardziej responsywnej oraz lżejszej witryny, "
+
+#: src/lib/constants.tsx:100
+#: src/lib/constants.tsx:141
+msgid "foreign languages"
+msgstr "języki obce"
+
+#: src/components/CreditsDialogButton.tsx:61
+#: src/components/CreditsDialogButton.tsx:80
+#: src/components/CreditsDialogButton.tsx:99
+msgid "from"
+msgstr "z"
+
+#: src/lib/constants.tsx:96
+msgid "front-end development"
+msgstr "programowanie front-end"
+
+#: src/components/GraphicsSettingButton.tsx:58
+msgid "Graphics settings"
+msgstr "Ustawienia graficzne"
+
+#: src/lib/constants.tsx:99
+msgid "helpfulness"
+msgstr "pomocność"
+
+#: src/lib/constants.tsx:88
+msgid "helping other employees with various problems"
+msgstr "pomoc innym pracownikom w rozwiązywaniu różnych problemów"
+
+#: src/contexts/SettingsContext.tsx:65
+msgid "High graphics"
+msgstr "Wysoka grafika"
+
+#: src/lib/constants.tsx:563
+msgid "Home Budget"
+msgstr "Home Budget"
+
+#: src/canvases/space/sections/contactSection/components/ContactForm.tsx:174
+msgid "I am writing to you because..."
+msgstr "Piszę do Ciebie, ponieważ..."
+
+#: src/canvases/space/sections/heroSection/components/HeroMyOrigin.tsx:45
+msgid "I originate from Poland"
+msgstr "Pochodzę z Polski"
+
+#: src/components/MobileWarning.tsx:66
+msgid "If you wish to ignore this warning and proceed anyway, "
+msgstr "Jeżeli wolisz zignorować to ostrzeżenie i kontynuować, "
+
+#: src/canvases/space/sections/heroSection/components/HeroMyOrigin.tsx:115
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/components/CreditsDialogButton.tsx:118
+msgid "is licensed under"
+msgstr "jest pod licencją"
+
+#: src/components/MobileWarning.tsx:47
+msgid "It appears that your device is incompatible with this experience. This warning is caused by your screen resolution being smaller in width than recommended. It's likely you're viewing this on a mobile device, which is problematic for this 3D web application mainly for two reasons:"
+msgstr "Wygląda na to że twoje urządzenie jest niekompatybilne z tym doświadczeniem. To ostrzeżenie ma miejsce przez mniejszą szerokość twojego ekranu niż zalecana. Prawdopodobnie widzisz to na urządzeniu mobilnym, co jest problematyczne dla tej 3D aplikacji witrynowej głównie z dwóch powodów:"
+
+#: src/lib/constants.tsx:97
+msgid "IT troubleshooting"
+msgstr "rozwiązywanie problemów IT"
+
+#: src/canvases/space/sections/jobExperienceSection/components/JobExperienceTitle.tsx:41
+msgid "Job Experience"
+msgstr "Doświadczenie zawodowe"
+
+#: src/lib/constants.tsx:133
+msgid "keeping the volunteers' living space tidy"
+msgstr "utrzymywanie porządku w przestrzeni mieszkalnej wolontariuszy"
+
+#: src/components/LanguageSettingButton.tsx:27
+msgid "language"
+msgstr "język"
+
+#: src/canvases/space/sections/jobExperienceSection/components/JobExperienceItemDialog.tsx:116
+msgid "Learn more"
+msgstr "Dowiedz się więcej"
+
+#: src/lib/constants.tsx:376
+msgid "Learn to DJ With Just Your Laptop: No DJ Equipment Needed"
+msgstr "Learn to DJ With Just Your Laptop: No DJ Equipment Needed"
+
+#: src/lib/constants.tsx:497
+msgid "LingoType"
+msgstr "LingoType"
+
+#: src/contexts/SettingsContext.tsx:54
+msgid "Low graphics"
+msgstr "Niska grafika"
+
+#: src/canvases/space/sections/contactSection/components/ContactForm.tsx:171
+msgid "Message"
+msgstr "Wiadomość"
+
+#: src/canvases/space/sections/contactSection/components/ContactForm.tsx:50
+msgid "Message must be at least 3 characters long."
+msgstr "Wiadomość musi zawierać conajmniej 3 znaki."
+
+#: src/canvases/space/sections/contactSection/components/ContactForm.tsx:53
+msgid "Message must be at max 2048 characters long."
+msgstr "Wiadomość nie może przekraczać 2048 znaków."
+
+#: src/lib/constants.tsx:129
+msgid "monitoring sea turtles nests"
+msgstr "monitorowanie gniazd żółwi morskich"
+
+#: src/components/CreditsDialogButton.tsx:53
+msgid "Music by"
+msgstr "Muzyka od"
+
+#: src/canvases/space/sections/heroSection/components/HeroAboutMe.tsx:40
+msgid "My name's Mateusz Muszarski and I'm passionate about programming as well as computer-science. Currently, I'm studying as programming technician in my technical college. "
+msgstr "Nazywam się Mateusz Muszarski i pasjonuję się programowaniem oraz informatyką. Obecnie uczę się jako technik programista w technikum. "
+
+#: src/canvases/space/sections/heroSection/components/HeroAboutMe.tsx:44
+msgid "My primary focus lies in full-stack and creative web development, however, I also learned the fundamentals in other digital areas such as 3D computer graphics, graphic design, photo or video editing. "
+msgstr "Moim głównym zainteresowaniem jest full-stack i kreatywne tworzenie stron internetowych, jednak poznałem również podstawy w innych dziedzinach cyfrowych, takich jak grafika 3D, projektowanie graficzne, edycja zdjęć i filmów. "
+
+#: src/lib/constants.tsx:173
+msgid "obeying traffic laws"
+msgstr "przestrzeganie przepisów drogowych"
+
+#: src/lib/constants.tsx:490
+#~ msgid "Old Space Portfolio"
+#~ msgstr "Old Space Portfolio"
+
+#: src/components/MobileWarning.tsx:42
+msgid "Oops!"
+msgstr "Ups!"
+
+#: src/canvases/space/sections/jobExperienceSection/components/JobExperienceDownloadResume.tsx:77
+msgid "OR"
+msgstr "LUB"
+
+#: src/canvases/space/sections/heroSection/components/HeroMyOrigin.tsx:70
+msgid "other countries too!"
+msgstr "wielu innych krajach!"
+
+#: src/components/CreditsDialogButton.tsx:34
+msgid "Planet textures by"
+msgstr "Tekstury planet od"
+
+#: src/lib/constants.tsx:83
+msgid "Practices for programming and social skills."
+msgstr "Praktyki z programowania i umiejętności społecznych."
+
+#: src/lib/constants.tsx:81
+msgid "Programmer (intern)"
+msgstr "Programista (praktykant)"
+
+#: src/canvases/space/sections/projectsSection/components/ProjectsTitle.tsx:32
+msgid "Projects"
+msgstr "Projekty"
+
+#: src/lib/constants.tsx:135
+msgid "promoting our home town and organizing events"
+msgstr "promowanie naszego miasta rodzinnego i organizacja wydarzeń"
+
+#: src/lib/constants.tsx:539
+msgid "React ClickMe"
+msgstr "React ClickMe"
+
+#: src/lib/constants.tsx:130
+msgid "rescuing hatchlings"
+msgstr "ratowanie młodych żółwi"
+
+#: src/lib/constants.tsx:126
+msgid "Rescuing threatened species of sea turtles and cleaning up the local environment alongside other foreign volunteers."
+msgstr "Ratowanie zagrożonych gatunków żółwi morskich i sprzątanie lokalnego środowiska wraz z innymi zagranicznymi wolontariuszami."
+
+#: src/components/ResetSettingsDialogButton.tsx:48
+msgid "Reset all"
+msgstr "Zresetuj wszystko"
+
+#: src/components/ScrollIndicator.tsx:44
+msgid "SCROLL"
+msgstr "PRZEWIŃ"
+
+#: src/components/ui/combobox.tsx:53
+msgid "Search"
+msgstr "Szukaj"
+
+#: src/lib/constants.tsx:144
+msgid "self-motivation"
+msgstr "automotywacja"
+
+#: src/canvases/space/sections/contactSection/components/ContactForm.tsx:207
+msgid "Send"
+msgstr "Wyślij"
+
+#: src/canvases/space/sections/certificatesSection/components/CertificatesList.tsx:89
+msgid "Show less"
+msgstr "Pokaż mniej"
+
+#: src/canvases/space/sections/certificatesSection/components/CertificatesList.tsx:90
+msgid "Show more, less relevant certificates"
+msgstr "Pokaż więcej, mniej odnośnych certyfikatów"
+
+#: src/canvases/space/sections/contactSection/components/ContactForm.tsx:94
+msgid "Something went wrong with sending the mail!"
+msgstr "Coś poszło nie tak przy wysyłaniu maila!"
+
+#: src/components/CreditsDialogButton.tsx:72
+#: src/components/CreditsDialogButton.tsx:91
+msgid "Sound Effect by"
+msgstr "Efekt Dźwiękowy od"
+
+#: src/canvases/space/sections/projectsSection/components/ProjectsItemCard.tsx:99
+msgid "Source code 💻"
+msgstr "Kod źródłowy 💻"
+
+#: src/lib/constants.tsx:396
+msgid "Speak Any Language in 10 Days - Conversational lvl [2024]"
+msgstr "Speak Any Language in 10 Days - Conversational lvl [2024]"
+
+#: src/lib/constants.tsx:80
+#: src/lib/constants.tsx:165
+msgid "Starogard Gdański, Pomerania, Poland"
+msgstr "Starogard Gdański, Pomorskie, Polska"
+
+#: src/components/StartupScreen.tsx:160
+msgid "START"
+msgstr "START"
+
+#: src/canvases/space/sections/contactSection/components/ContactForm.tsx:138
+msgid "Subject"
+msgstr "Tytuł"
+
+#: src/canvases/space/sections/contactSection/components/ContactForm.tsx:42
+msgid "Subject must be at least 3 characters long."
+msgstr "Tytuł musi zawierać conajmniej 3 znaki."
+
+#: src/canvases/space/sections/contactSection/components/ContactForm.tsx:45
+msgid "Subject must be at max 64 characters long."
+msgstr "Tytuł nie może przekraczać 64 znaków."
+
+#: src/canvases/space/sections/contactSection/components/ContactForm.tsx:91
+msgid "Successfully sent the mail!"
+msgstr "Pomyślnie wysłano mail!"
+
+#: src/lib/constants.tsx:136
+msgid "taking pictures and videos for the national agency"
+msgstr "robienie zdjęć i nagrań dla agencji narodowej"
+
+#: src/lib/constants.tsx:86
+msgid "technical support"
+msgstr "wsparcie techniczne"
+
+#: src/lib/constants.tsx:316
+msgid "The Complete JavaScript Course 2023: From Zero to Expert!"
+msgstr "The Complete JavaScript Course 2023: From Zero to Expert!"
+
+#: src/lib/constants.tsx:297
+msgid "The Ultimate React Course 2024: React, Next.js, Redux & More"
+msgstr "The Ultimate React Course 2024: React, Next.js, Redux & More"
+
+#: src/components/ResetSettingsDialogButton.tsx:40
+#~ msgid ""
+#~ "This action cannot be undone. This will permanently delete all of\n"
+#~ "your local storage data and totally refresh the experience."
+#~ msgstr ""
+#~ "Ta akcja nie może zostać odwrócona. To permanentnie usunie wszystkie\n"
+#~ "twoje dane przeglądarkowe oraz totalnie odświeży doświadczenie."
+
+#: src/components/ResetSettingsDialogButton.tsx:40
+msgid "This action cannot be undone. This will permanently delete all of your local storage data and totally refresh the experience."
+msgstr "Ta akcja nie może zostać odwrócona. To permanentnie usunie wszystkie twoje dane przeglądarkowe oraz totalnie odświeży doświadczenie."
+
+#: src/lib/constants.tsx:277
+msgid "Three.js Journey — Learn WebGL with Three.js"
+msgstr "Three.js Journey — Learn WebGL with Three.js"
+
+#: src/lib/constants.tsx:416
+msgid "Three.js, React Three Fiber, Drei, React Spring & More"
+msgstr "Three.js, React Three Fiber, Drei, React Spring & More"
+
+#: src/lib/constants.tsx:142
+#: src/lib/constants.tsx:179
+msgid "time management"
+msgstr "zarządzanie czasem"
+
+#: src/lib/constants.tsx:172
+msgid "verifying packages integrity"
+msgstr "sprawdzanie integralności paczek"
+
+#: src/canvases/space/sections/projectsSection/components/ProjectsItemCard.tsx:118
+msgid "View it live 🚀"
+msgstr "Odwiedź projekt 🚀"
+
+#: src/canvases/space/sections/jobExperienceSection/components/JobExperienceDownloadResume.tsx:95
+msgid "Visit LinkedIn"
+msgstr "Odwiedź LinkedIn"
+
+#: src/components/MobileWarning.tsx:85
+msgid "Visit old portfolio"
+msgstr "Odwiedź stare portfolio"
+
+#: src/components/AudioSettingButton.tsx:61
+msgid "Volume"
+msgstr "Głośność"
+
+#: src/lib/constants.tsx:90
+msgid "writing and creating social media posts"
+msgstr "pisanie i tworzenie postów w mediach społecznościowych"
+
+#: src/lib/constants.tsx:199
+msgid "Youth Entrepreneurship in Palanga, Lithuania"
+msgstr "Przedsiębiorczość Młodzieży w Palanga, Litwa"
+
+#: src/lib/constants.tsx:448
+msgid "Youth Work Synergy"
+msgstr "Youth Work Synergy"
